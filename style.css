@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Outfit', sans-serif;
+}
+
+.main-container{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.img-shape{
+    border-radius: 7%;
+    padding: 4%;
+}
+
+.creator{
+    border-top: 1px solid red;
+}
+
+.creator-img{
+    width: 30px;
+    height: 30px;
+    border: 1px solid white;
+    border-radius: 50%;
+    margin-top: 10%;
+}
+
+.creator-text{
+    margin-top: 10%;
+    margin-left: 8%;
+}
+ .creator-text span{
+    font-weight: 600;
+ }
+
+
