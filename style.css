@@ -4,7 +4,7 @@
     font-family: 'Outfit', sans-serif;
 }
 body{
-    background-color: hsl(217, 54%, 11%)
+    background-color: #0d1a2d;
 }
 
 .main-container{
@@ -13,6 +13,7 @@ body{
     align-items: center;
     justify-content: center;
     color: white;
+    flex-direction: column;
 }
 .card{
     background-color: #14253d;
@@ -62,6 +63,10 @@ box-shadow: -7px 3px 45px 19px rgba(0,0,0,0.69);
 }
  .creator-text span{
     color: white;
+ }
+
+ .attribution{
+   margin-top: 70px;
  }
 
 
